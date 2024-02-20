@@ -1,10 +1,11 @@
-
 #!/usr/bin/node
 /*
-    this display a square and the character #
+    display a square and the character #
     
-    The program expects the size of the square as its initial argument 
+    The size of the square is the initial argument 
     of the program.
+
+    change in size = parseInt(process.argv[2], 16)
 */
 
 
